@@ -1,8 +1,6 @@
 package com.practice.arif.samplequiz;
 
-/**
- * Created by khan on 4/5/2016.
- */
+
 public class Question {
     private int mTextResId;
     private boolean mAnsTrue;
